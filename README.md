@@ -40,7 +40,7 @@ No build step required — open directly in browser.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Vergos1/project_OldVersus.git
+git clone https://github.com/Vergos1/versus.git
 
 # Open in browser
 open index.html
